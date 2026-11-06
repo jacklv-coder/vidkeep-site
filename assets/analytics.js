@@ -10,6 +10,9 @@
     "/en/guides/save-videos-offline/",
     "/en/guides/organize-video-library/",
     "/en/guides/lifetime-video-saver/",
+    "/guides/save-douyin-video/", "/guides/save-xiaohongshu/", "/guides/save-x-twitter-video/",
+    "/en/guides/save-x-twitter-video-iphone/", "/en/guides/save-rednote-xiaohongshu-iphone/",
+    "/en/guides/save-douyin-video-iphone/",
   ]);
   const sources = new Set([
     "chatgpt", "google", "bing", "other_search", "social", "other_referral", "direct",
